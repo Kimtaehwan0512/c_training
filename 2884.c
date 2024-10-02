@@ -12,6 +12,6 @@ int main() {
     }
     if (a < 0) {
         a = a + 24;
-    };
+    }
     printf("%d %d", a, b);
-};
+}
