@@ -4,5 +4,5 @@ int main() {
 	printf("\\    /\\\n");
 	printf(" )  ( ')\n");
 	printf("(  /  )\n");
-	printf(" \\(__)| \n");
+	printf(" \\(__)| ");
 }
