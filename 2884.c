@@ -1,8 +1,7 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+int a, b;
 
 int main() {
-    int a, b;
     scanf("%d %d", &a, &b);
     if (b > 44) {
         b = b - 45;
