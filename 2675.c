@@ -13,8 +13,8 @@ int main() {
         for (int j = 0;j < strlen(n_str);j++) {
             for (int k = 0;k < n_num;k++) {
                 printf("%c", n_str[j]);
-            };
-        };
+            }
+        }
         printf("\n");
-    };
-};
+    }
+}
