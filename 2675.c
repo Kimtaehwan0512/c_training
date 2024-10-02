@@ -2,7 +2,7 @@
 #include <string.h>
 
 int a, n_num;
-char n_str[20];
+char n_str[21];
 
 int main() {    
     scanf("%d", &a);
