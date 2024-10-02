@@ -7,4 +7,4 @@ int main() {
 	printf(" \\(__)| \n");
 
 	return 0;
-};
+}
