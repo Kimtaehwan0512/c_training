@@ -1,2 +1,3 @@
-"# c_training" 
-"# c_training" 
+c_training 
+
+Kimtaehwan0512
