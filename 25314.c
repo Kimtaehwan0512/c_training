@@ -5,7 +5,6 @@ int main() {
     scanf("%d", &a);
     a = a / 4;
     
-    char res = "";
     for (int i = 0;i < a;i++) {
         printf("long ");
     }
