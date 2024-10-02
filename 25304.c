@@ -10,12 +10,12 @@ int main() {
     for (int i = 0;i < n;i++) {
         scanf("%d %d", &now, &now_n);
         res = res + (now * now_n);
-    };
+    }
 
     if (res == total) {
         printf("Yes");
     }
     else {
         printf("No");
-    };
-};
+    }
+}
