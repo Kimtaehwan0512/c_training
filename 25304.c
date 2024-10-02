@@ -1,9 +1,9 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
+int total, now, now_n, n;
+int res = 0;
+
 int main() {
-    int total, now, now_n, n;
-    int res = 0;
     scanf("%d", &total);
     scanf("%d", &n);
 
