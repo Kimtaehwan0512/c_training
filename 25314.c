@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+int a ;
+
 int main() {
-    int a ;
     scanf("%d", &a);
     a = a / 4;
     
