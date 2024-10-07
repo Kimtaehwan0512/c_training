@@ -1,6 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <string.h>
 
 float res, num, now_g, total_gra;
 char sub[51], grade[3];
